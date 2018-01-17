@@ -1,4 +1,4 @@
-package com.vitormarcal.desafio.Configurations;
+package com.vitormarcal.desafio.configurations.mongo;
 
 import com.mongodb.MongoClient;
 import cz.jirutka.spring.embedmongo.EmbeddedMongoFactoryBean;
